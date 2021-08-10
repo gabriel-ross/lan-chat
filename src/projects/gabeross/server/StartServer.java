@@ -1,4 +1,4 @@
-package projects.gabeross;
+package projects.gabeross.server;
 
 import projects.gabeross.server.Server;
 
